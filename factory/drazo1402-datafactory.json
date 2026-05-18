@@ -1,0 +1,15 @@
+{
+	"name": "drazo1402-datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea37e6e5-5b6a-44bd-aa5f-31a3840597ed",
+		"tenantId": "22cc2657-6591-46a0-b22d-842d08ac24e9"
+	}
+}
